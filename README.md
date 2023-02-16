@@ -11,10 +11,10 @@
     padding: clamp(3vw, 7vw, 10vw);
 ">
     <img src="assets/img/oliver_title.svg" width="90%"/>
-    <div style="width: 40%; display: inline; margin-right: 5%;">
+    <div style="width: 40%; display: inline !important; margin-right: 5%;">
         <img src="assets/img/oliver_botello.svg" style="height: clamp(4px, 3vw, 150px);"/>
     </div>
-    <div style="width: 12.5%; display: inline;">
+    <div style="width: 12.5%; display: inline !important;">
         <a href="https://www.oliverbotello.com"><img src="assets/img/github.svg" style="height: clamp(4px, 3vw, 150px);"/></a>
     </div>
     <div style="width: 12.5%; display: inline;">
